@@ -4,7 +4,7 @@ import './whatGPT3.css';
 
 const WhatGPT3 = () => {
   return (
-    <div className='gpt3__whatgp3 section__margin' id="whpt3">
+    <div className='gpt3__whatgp3 section__margin' id="wgpt3">
       <div className='gpt3__whatgp3-feature'>
         <Feature title="What is GPT-3" text="GPT-3, or Generative Pre-trained Transformer 3, is an advanced language model developed by OpenAI. It can generate human-like text based on the input it receives and is used for various applications like chatbots, writing assistance, and more."/>
       </div>
